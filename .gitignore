@@ -1,0 +1,20 @@
+# Ignore all private keys
+*.pem
+
+# Ignore VSCode configuration files
+.vscode/
+
+# Ignore compiled binary files (optional if generated)
+*.exe
+*.out
+*.o
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
